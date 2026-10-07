@@ -18,5 +18,3 @@ This project trains a model that can predict the species of specimen from an ima
 ##Running
 
 python main.py
-
-#
